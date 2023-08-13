@@ -3,8 +3,8 @@ Berikut ini merupakan Capstone project CRUD dengan Topik Rental Mobil
 
 Pada program ini memiliki Fungsi
 Create, Read, Update, dan Delete
-
 Kemudian untuk tampilan table nya menggunakan library Tabulate dari Tabulate.
+
 #1 Tampilan Menu Utama dari Rental Mobil
 ![image](https://github.com/gimlyl/Capstone-Rental-Mobil/assets/97380042/86748f35-f408-4908-90b7-b8dbd9613243)
 
