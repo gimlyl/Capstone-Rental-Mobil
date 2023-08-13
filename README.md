@@ -6,9 +6,8 @@ Create, Read, Update, dan Delete
 Kemudian untuk tampilan table nya menggunakan library Tabulate dari Tabulate.
 
 
-#1 Tampilan Menu Utama dari Rental Mobil
-
 ![image](https://github.com/gimlyl/Capstone-Rental-Mobil/assets/97380042/86748f35-f408-4908-90b7-b8dbd9613243)
+#1 Tampilan Menu Utama dari Rental Mobil
 
 #2 Menampilkan Data Table Rental Mobil
 ![image](https://github.com/gimlyl/Capstone-Rental-Mobil/assets/97380042/fc0c0d1e-ec80-4681-ae5e-35c11850110f)
